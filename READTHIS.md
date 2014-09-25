@@ -6,6 +6,9 @@ están copadas, como guías de estilo de código, explicaciones de algo en parti
 
 ## AngularJS
 
+[Video tutorial basic AngularJS] Encontré este video tutorial basic de AngularJS, para después de adentrarse de lleno al libro. 
+https://www.youtube.com/watch?v=e1xizBsBLZ0&list=PL6LPvqvHdclbrYqIdNLm5zOodZrebZaln
+
 [Guía de estilo de AngularJS](https://github.com/johnpapa/angularjs-styleguide) Necesaria para dos cosas:
 Escribir un código un poco más lindo y que todos escribamos de manera consistente y nos podamos entender.
 
