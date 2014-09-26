@@ -1,0 +1,22 @@
+{
+  "name": "massive-octo-archer",
+  "version": "0.0.1",
+  "description": "Software de gestión de trabajos y clientes.",
+  "scripts": {
+    "start": "nodewebkit app"
+  },
+  "dependencies": {
+    "nodewebkit": "latest"
+  },
+  "main": "app/index.html",
+  "window": {
+    "title": "massive-octo-archer",
+    "icon": "link.png",
+    "toolbar": false,
+    "frame": true,
+    "width": 800,
+    "height": 500,
+    "min_width": 640,
+    "min_height": 480
+  }
+}
