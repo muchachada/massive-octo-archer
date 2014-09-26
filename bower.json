@@ -5,5 +5,8 @@
   "authors": [
     "Pablo Sanfilippo <sanfilippopablo@gmail.com>"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "angularjs": "~1.2.25"
+  }
 }
