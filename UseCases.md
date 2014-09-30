@@ -30,6 +30,7 @@ Casos de Uso
 5. El recepcionista informa al cliente precio y plazo de entrega.
 
 **Alternativas**
+
 1. a. El cliente llama o se presenta y da datos del trabajo sin informar su identidad.
 
 	**Flujo básico para alternativa a.**
@@ -45,6 +46,6 @@ Casos de Uso
 
 	1.a.4.a El cliente no existe en el sistema.
 
-		1.a.4.a.1 Recepcionista solicita datos de cliente y los ingresa al sistema.
+	1.a.4.a.1. Recepcionista solicita datos de cliente y los ingresa al sistema.
 
-		1.a.4.a.2 Sistema registra cliente. Continúa en paso 1.a.5.
+	1.a.4.a.2. Sistema registra cliente. Continúa en paso 1.a.5.
