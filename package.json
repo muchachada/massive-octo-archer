@@ -3,17 +3,14 @@
   "version": "0.0.1",
   "description": "Software de gestión de trabajos y clientes.",
   "repository": "https://github.com/muchachada/massive-octo-archer",
-
   "scripts": {
     "start": "nodewebkit",
     "postinstall": "bower install"
   },
-
   "dependencies": {
     "bower": "^1.3.11",
-    "nodewebkit": "latest"
+    "nodewebkit": "^0.10.5"
   },
-
   "main": "app/index.html",
   "window": {
     "title": "massive-octo-archer",
