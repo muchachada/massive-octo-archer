@@ -8,7 +8,6 @@
   "license": "MIT",
   "dependencies": {
     "angularjs": "~1.2.25",
-    "angular-material": "~0.5.1",
     "angular-ui-router": "~0.2.11",
     "bootstrap": "~3.3.0"
   }
